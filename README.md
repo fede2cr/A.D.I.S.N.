@@ -29,6 +29,13 @@ Most of the funtions will be activated by using the copper tape inside the noteb
 - Emulate the face for A.D.I.S.N. by using the 8x8 LED Matrix.
 - Coordinate light on the cover, faces on the inside with the audio fraces.
 
+### Wishlist
+This I want to include in the project:
+
+- CircuitPython
+- Web REPL interface for simple control
+- AP with webapp, for controlling from cellphone
+
 ### This, it won't do (yet?)
 
 - Speech Synth
